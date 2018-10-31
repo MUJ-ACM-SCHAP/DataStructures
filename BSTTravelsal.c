@@ -25,6 +25,7 @@ int main()
         printf("\n3.INORDER");
         printf("\n4.POSTORDER");
         printf("\n5.EXIT");
+        printf("\nInsert option number : ");
         scanf("%d",&option);
 
         createtree(tree);
